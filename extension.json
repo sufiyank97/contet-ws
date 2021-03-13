@@ -1,0 +1,6 @@
+{
+  "id": "summerNoteEditor",
+  "name": "Summernote WYSIWYG Editor",
+  "srcdoc": "src/index.html",
+  "fieldTypes": ["Symbol", "Text"]
+}
